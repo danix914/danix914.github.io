@@ -1,8 +1,8 @@
-figure.code pre  { color:#fdce93; background-color:#3f3f3f  !important; }
-.highlight pre code, .highlight pre { color:#fdce93; background-color:#3f3f3f !important; }
-.highlight pre .hll { background-color:#222 !important; }
+figure.code pre  { color:#fdce93; background-color:#3f3f3f; }
+.highlight pre code, .highlight pre { color:#fdce93; background-color:#3f3f3f; }
+.highlight pre .hll { background-color:#222; }
 .highlight pre .c { color:#7f9f7f !important; display: inline-block !important; }
-.highlight pre .err { color:#e37170; background-color:#3d3535 !important; }
+.highlight pre .err { color:#e37170; background-color:#3d3535; }
 .highlight pre .g { color:#7f9f7f !important; }
 .highlight pre .k { color:#f0dfaf !important; }
 .highlight pre .l { color:#ccc !important; }
